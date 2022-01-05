@@ -12,7 +12,8 @@ This guide is currently intended only for setting up servers from the [Solana Se
 
 **UPDATE** 12/22 - Alpha testing pool is closed for a short period while we manage through the IDO process.
 
-**HARDWARE CONSIDERATIONS**
+# Building a Shadow Node
+
 A Solana Shadow Node has similar hardware requirements to the Solana RPC with the addition of additional storage capacity. This will change over time as the Shadow Protocol evolves. These hardware details below are for **early alpha Shadow Nodes and the following beta Shadow Nodes**
 
 If you are utilizing the Solana Server Program for your hardware, please make sure you have two larger drives as detailed below:
@@ -27,7 +28,8 @@ Minimums from Solana Server Program:
 *  NIC - 10gig
 *  Connection - 500MB/s symmetrical
 
-Custom Builders see above minimums or the below general guidance. These are generalizations and subject to change. They have 
+Custom Builders see above minimums or the below general guidance. These are generalizations and subject to change, but should be considered the minimum requirement for stable Shadow Node operation.
+
 # Operating a Shadow Node
 
 This resource has a step by step guide of:
