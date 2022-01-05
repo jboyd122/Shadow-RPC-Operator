@@ -1,8 +1,15 @@
-# RPC Maintenance
+# Shadow Node Maintenance
 
 More to this section coming soon. 
 
 Join Discord - Shadow Ops channel - https://discord.gg/c7ts863T
+
+# Frequently Asked Questions
+
+1. How do I know if my node is working properly?
+2. I ran the Healthcheck curl but received a connection error.
+3. Why does the `solana catchup` command return a different slot position than what the Shadow Protocol bot indicates?
+4. My node seems to fall off the tip routinely - is this normal or is something wrong?
 
 
 
