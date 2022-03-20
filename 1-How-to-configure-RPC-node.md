@@ -61,6 +61,8 @@ sudo fdisk -l
 
 sudo mkfs -t ext4 /dev/nvme0n1p1
 
+sudo mkfs -t ext4 /dev/nvme0n1p2
+
 sudo mkdir /mnt/
 
 sudo mkdir /mnt/ramdrive
